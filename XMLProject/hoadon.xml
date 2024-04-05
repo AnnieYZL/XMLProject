@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<danhsachhoadon>
+
+<hoadon maHoaDon="1">
+  <maKhach>1</maKhach>
+  <ngayMua>15/12/2023</ngayMua>
+  <id>2</id>
+  <soLuong>3</soLuong>
+</hoadon>
+<hoadon maHoaDon="2">
+<maKhach>3</maKhach>
+<ngayMua>17/03/2024</ngayMua>
+<id>2</id>
+<soLuong>1</soLuong>
+</hoadon>
+<hoadon maHoaDon="3">
+<maKhach>3</maKhach>
+<ngayMua>17/03/2024</ngayMua>
+<id>4</id>
+<soLuong>1</soLuong>
+</hoadon>
+<hoadon maHoaDon="4">
+<maKhach>3</maKhach>
+<ngayMua>17/03/2024</ngayMua>
+<id>6</id>
+<soLuong>1</soLuong>
+</hoadon>
+<hoadon maHoaDon="5">
+<maKhach>3</maKhach>
+<ngayMua>17/03/2024</ngayMua>
+<id>1</id>
+<soLuong>1</soLuong>
+</hoadon>
+<hoadon maHoaDon="6">
+<maKhach>1</maKhach>
+<ngayMua>17/03/2024</ngayMua>
+<id>8</id>
+<soLuong>1</soLuong>
+</hoadon>
+</danhsachhoadon>

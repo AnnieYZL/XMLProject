@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bookstore>
+
+<book category="Manga" id="1">
+  <title lang="jp">Conan VOL 100 SPECIAL</title>
+  <year>2005</year>
+  <price>30.0</price>
+<image>https://nhasachquangloi.vn/pub/media/catalog/product/cache/3bd4b739bad1f096e12e3a82b40e551a/c/o/conan100-dac-biet.jpg</image>
+
+<author>Gosho Aoyama</author>
+</book>
+
+<book category="children" id="2">
+  <title lang="en">Harry Potter</title>
+  <author>J K. Rowling</author>
+  <year>2005</year>
+  <price>29.99</price>
+<image>https://m.media-amazon.com/images/I/81q77Q39nEL._AC_UF1000,1000_QL80_.jpg</image>
+</book>
+
+<book category="web" id="3">
+  <title lang="en">XQuery Kick Start</title>
+  <author>James McGovern</author>
+  <author>Per Bothner</author>
+  <author>Kurt Cagle</author>
+  <author>James Linn</author>
+  <author>Vaidyanathan Nagarajan</author>
+  <year>2003</year>
+  <price>49.99</price>
+<image>https://m.media-amazon.com/images/I/51X68wv7FgL._AC_UF894,1000_QL80_.jpg</image>
+</book>
+
+<book category="Detective" cover="paperback" id="4">
+  <title lang="jp">Conan Vol 55</title>
+  
+  <year>2015</year>
+  <price>20.0</price>
+<image>https://nhasachquangloi.vn/pub/media/catalog/product/cache/3bd4b739bad1f096e12e3a82b40e551a/t/n/tn-ttr-kd-681-055.jpg</image>
+<author>Gosho Aoyama</author>
+</book>
+
+
+
+
+
+
+<book category="Manga" id="6">
+<title lang="en">Conan Vol 102</title>
+
+<year>1999</year>
+<price>6.0</price>
+<image>https://product.hstatic.net/200000343865/product/102_359d8e4410484914b3ccee5831926b14_master.jpg</image>
+
+<author>Gosho Aoyama</author>
+</book>
+<book category="Manga" id="7">
+<title lang="jp">Conan Vol 60 Special</title>
+
+<year>2020</year>
+<price>20.95</price>
+<image>https://product.hstatic.net/200000343865/product/tham-tu-lung-danh-conan-60-sdb_3b72067673df4e0abb03b25782b8f365_master.jpg</image>
+<author>Gosho Aoyama</author>
+</book>
+<book category="Manga" id="8">
+<title lang="en">Conan Vol 16</title>
+<year>2020</year>
+<price>8.0</price>
+<image>https://nhasachphuongnam.com/images/detailed/253/tham-tu-lung-dan-conan-tap-16.jpg</image>
+
+<author>Gosho Aoyama</author>
+</book>
+</bookstore>
